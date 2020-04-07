@@ -1,0 +1,6 @@
+Requirements for running codes for Capstone course of Group 16
+
+1. To run the codes you will install anaconda python in your computer
+
+2. Install the following libraries
+   <pip install dataframe>
