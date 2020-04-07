@@ -3,12 +3,12 @@ Codes associated to Capstonste course paper
 <p><b>"""Codes used for the project""</b></p>
 
 <p><b>Part One:</b></p>
-Consists with loading data of (GDP and P score) from excel to python by using pandas library
+Codes extract data of P score of top 40 JSE companies of the 10 years from excel and GDP of South Africa of the last 10 years excel and load the in python.
 <p><b>Part Two:</b></p>
-Plot the descriptive values including histograms and scatter plot
+It calculates average mean, median, correlation matrix, covariance matrix, percentiles, plotted scatter plot and histograms for P score and GDP 
 <p><b>Part Three:</b></p>
-	Plot of QQ Plot
+Plot Q-Q plot, or quantile-quantile plot
 <p><b>Part Four:</b></p>
-OLS 
+Performs Ordinary Least Square and gives regression results and plot OLS 
 <p><b>Part Five:</b></p>
-	Cohen’s Kappa Score: ""
+Does Cohen’s Kappa Score 
